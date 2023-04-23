@@ -1,0 +1,179 @@
+.alinhartabela1{
+    position: absolute;
+    left: 100;
+    top: 100;
+}
+.alinhartabela2{
+    position: absolute;
+    right: 115;
+    top: 100;
+}
+.alinhartabela3{
+    position: absolute;
+    right: 450;
+    top: 750;
+}
+.alinhartabela4{
+    position: absolute;
+    top: 750;
+    left: 450;
+    
+}
+.alinhartabela5{
+    top: 100;
+    position: absolute;
+    left: 732;
+}
+.logofia{
+    width: 120px;
+    position: absolute;
+    top: 1;
+    height: 70px;
+    float: left;
+
+}
+.logoformula1{
+    width: 150px;
+    top: 1;
+    left: 1750;
+    height: 70px;
+    position: absolute;
+}
+
+.titulo{
+    top: 1;
+}
+
+.table1{
+    width: 500px;
+    background-color:darkgray;
+    font-size: 17px;
+}
+.primeiralinha{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:antiquewhite;
+    color: black;
+}
+.nomes{
+    background-color:lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.equipes{
+    background-color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.table2{
+    width: 500px;
+    background-color: cornflowerblue;
+    font-size: 17;
+}
+.primeiralinha2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: azure;
+}
+.segundalinha2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: azure;
+}
+.nomes2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color:blanchedalmond;
+}
+.pontos2{
+    background-color: grey;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table3{
+    width: 380px;
+    background-color:#1b2f3c;
+    font-size: 15;
+}
+.primeiralinha3{
+    color: black;
+    background-color: #55929e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.segundalinha3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #55929e;
+}
+.colocação3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #efefe6;
+}
+.nomes3{
+    color: black;
+    background-color: #87fff9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pontos3{
+    color: black;
+    background-color:#efefe6 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table4{
+    width: 450px;
+    background-color:#232127;
+    font-size: 16;
+}
+.primeiralinha4{
+    color: black;
+    background-color:#8cbccf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.segundalinha4{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#8cbccf;
+}
+.equipes4{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#e4e3ef;
+}
+.pontosgp4{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#8ba7de;
+}
+.pontosgeral4{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e4e3ef;
+}
+.table5{
+    width: 450px;
+    background-color:#0a0911;
+    font-size: 16;
+}
+.primeiralinha5{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #979fa9;
+}
+.segundalinha5{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #979fa9;
+}
+.colocação5{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #abaa92;
+}
+.pontos5{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#abaa92 ;
+}
